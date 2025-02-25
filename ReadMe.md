@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jumanazarov Umidbek
 
 🔹 **Android & Flutter Developer**  
-🔹 **Full-stack Developer** (Node.js, PHP, PostgreSQL, MySQL)  
+🔹 **Full-stack Developer**  
 🔹 **Mentor & IT Educator**  
 
 ### 🚀 About Me  
