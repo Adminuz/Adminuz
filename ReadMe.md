@@ -15,5 +15,5 @@
 
 ### 📫 Connect with Me  
 🌍 [My Website](https://xapi.uz/)  
-💼 [LinkedIn](https://t.me/xapiuz)  
+💼 [Telegram](https://t.me/xapiuz)  
 📧 [Email](xivaapi@gmail.com)  
