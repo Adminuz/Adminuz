@@ -4,7 +4,7 @@
 🔹 **Full-stack Developer**  
 🔹 **Mentor & IT Educator**  
 
-### 🚀 About Me  
+### 🚀 About Me 
 - 🏗 I develop mobile applications using **Flutter** and **Android**.  
 - 🎓 Mentor at **"Al Xorazmi"**, teaching web development to students.  
 - 🎮 Passionate about **game development** (Defold, Godot, Phaser).  
