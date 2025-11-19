@@ -43,7 +43,7 @@
 
 
 
-### 📫 Connect with Me  
+### 📫 Connect with Me
 🌍 [My Website](https://xapi.uz/)  
 💼 [Telegram](https://t.me/xapiuz)  
 📧 [Email](xivaapi@gmail.com)  
